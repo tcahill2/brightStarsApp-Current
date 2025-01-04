@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "brightStarsApp",
+    "slug": "brightStarsApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Bright_Stars_Tech_Logo_TRANSPARENT.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/Bright_Stars_Tech_Logo_TRANSPARENT.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
